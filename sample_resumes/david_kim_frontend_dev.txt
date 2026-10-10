@@ -1,0 +1,48 @@
+David Kim
+david.kim@example.com | +1-555-345-6789 | Austin, TX | linkedin.com/in/davidkim-fe | github.com/davidkim
+
+PROFESSIONAL SUMMARY
+Frontend Web Developer with 3+ years of experience crafting interactive, accessible, and high-performance user interfaces. Expert in React, TypeScript, Next.js, and modern CSS frameworks with strong attention to micro-interactions, responsive design, and state management architecture.
+
+TECHNICAL SKILLS
+- Programming Languages: TypeScript, JavaScript, HTML5, CSS3, SQL
+- Frontend Libraries & Frameworks: React, Next.js, Redux, Tailwind CSS, Bootstrap, Vite, Webpack
+- Testing & Quality: Jest, Cypress, Postman
+- Backend & Protocols: Node.js, Express, REST API, GraphQL
+- Tools & Version Control: Git, GitHub, Jira, Agile, Scrum, Figma
+
+PROFESSIONAL EXPERIENCE
+
+Frontend Developer | PixelCraft Interactive
+2023 - Present
+- Engineered high-traffic e-commerce and customer portal interfaces using React, Next.js, TypeScript, and Tailwind CSS.
+- Optimized web vitals and client-side bundle performance with code splitting, dynamic imports, and Vite, elevating Google Lighthouse scores from 68 to 96.
+- Architected predictable global state workflows using Redux Toolkit, managing complex cart checkout and user profile configurations.
+- Integrated RESTful APIs and GraphQL endpoints for real-time inventory queries and order processing.
+- Wrote comprehensive end-to-end and unit test suites utilizing Jest and Cypress to achieve 88% UI test coverage.
+
+Junior Web Developer | BlueSky Media Group
+2021 - 2023
+- Built responsive marketing web applications and interactive landing pages using React, JavaScript, HTML5, and CSS3.
+- Translated high-fidelity UI/UX design mockups from Figma into pixel-perfect, accessible components compliant with WCAG 2.1 AA standards.
+- Integrated third-party REST API integrations for customer authentication and social media sharing.
+- Maintained code repositories using Git and participated in weekly Agile sprint plannings and retrospectives.
+
+KEY PROJECTS
+
+Modern SaaS Dashboard & Design System
+- Developed a modular, reusable React component library with TypeScript and Tailwind CSS.
+- Documented 40+ components with Storybook, standardizing UI development across 3 product teams.
+- Implemented dark mode theme switcher and responsive layout for mobile and desktop screens.
+
+Real-Time Collaborative Kanban Board
+- Created an interactive drag-and-drop task management tool using React, Redux, and WebSockets.
+- Supported simultaneous updates across multiple team members with optimistic UI rendering.
+
+EDUCATION
+Bachelor's Degree in Information Technology
+University of Texas at Austin (2017 - 2021)
+
+CERTIFICATIONS
+- Meta Frontend Developer Professional Certificate
+- Certified Scrum Master (CSM)

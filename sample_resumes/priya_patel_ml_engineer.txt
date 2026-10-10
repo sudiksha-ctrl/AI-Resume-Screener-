@@ -1,0 +1,53 @@
+Priya Patel
+priya.patel@example.com | +1-555-987-6543 | New York, NY | linkedin.com/in/priyapatel-ai | github.com/priyapatel
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer with 5+ years of experience designing, training, and productionizing predictive machine learning models, deep learning architectures, and generative AI systems. Specialized in natural language processing (NLP), LLM fine-tuning, retrieval-augmented generation (RAG), and scalable model deployment pipelines.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL, C++, Bash
+- ML & Deep Learning Frameworks: PyTorch, TensorFlow, Keras, Scikit-Learn, Hugging Face
+- NLP & Generative AI: NLP, Natural Language Processing, LLMs, LangChain, Vector Databases
+- Data Processing & Analytics: Pandas, NumPy, Data Analysis, Matplotlib, Seaborn
+- Backend & Deployment: FastAPI, Flask, REST API, Docker, Kubernetes, AWS, Git
+- Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+- Tools & Methodologies: MLflow, PyTest, CI/CD, Linux, Agile
+
+PROFESSIONAL EXPERIENCE
+
+Senior Machine Learning Engineer | CogniWave AI Labs
+2022 - Present
+- Architected enterprise semantic search and Retrieval-Augmented Generation (RAG) platform using PyTorch, Hugging Face, LangChain, and Vector Databases.
+- Fine-tuned open-source LLMs for specialized domain summarization and classification, achieving 94.2% accuracy and beating legacy benchmarks.
+- Deployed high-throughput model inference microservices with FastAPI and Docker on AWS EKS, serving 500+ requests per second with latency under 60ms.
+- Implemented automated ML pipelines with MLflow and CI/CD for continuous model training, evaluation, and zero-downtime deployment.
+- Mentored junior data scientists and collaborated with product engineers to translate business objectives into robust ML solutions.
+
+Machine Learning Engineer | DataSphere Analytics
+2019 - 2022
+- Developed predictive classification and regression models using Python, Scikit-Learn, and Pandas across multi-terabyte transactional datasets.
+- Built deep learning neural network architectures using PyTorch and TensorFlow for time-series forecasting, reducing error margins by 28%.
+- Designed automated feature engineering and data extraction pipelines integrating PostgreSQL and SQL data warehouses.
+- Containerized model training workflows with Docker and established automated testing with PyTest.
+
+KEY PROJECTS
+
+Enterprise Knowledge Graph & LLM Copilot
+- Created an intelligent corporate assistant leveraging LangChain, LLMs, and Vector Databases.
+- Integrated automated document ingestion, chunking, and embedding generation for PDF/DOCX files.
+- Reduced internal question-answering turnaround time from 2 hours to under 3 seconds.
+
+Computer Vision & Document Intelligence Pipeline
+- Built an OCR and document parsing engine using PyTorch and OpenCV for invoice field extraction.
+- Handled over 100,000 documents weekly with 98.7% entity recognition accuracy.
+
+EDUCATION
+Master's Degree in Data Science & Machine Learning
+Columbia University, New York (2017 - 2019)
+
+Bachelor's Degree in Computer Engineering
+University of Illinois Urbana-Champaign (2013 - 2017)
+
+CERTIFICATIONS
+- AWS Certified Machine Learning - Specialty
+- DeepLearning.AI Deep Learning Specialization
